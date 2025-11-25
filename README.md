@@ -5,8 +5,12 @@ Gentoo repositories.  I can understand why, because this thing was a pain to
 build.
 
 Based on ebuilds and patches from here:
+
 https://github.com/gentoo/gentoo/tree/master/sci-libs/hipBLASLt
+
 https://github.com/gentoo/gentoo/tree/master/sci-libs/hipSPARSE
+
+https://github.com/gentoo/gentoo/blob/master/eclass/rocm.eclass
 
 # Caution
 I am not terribly familiar with ebuilds, so this is very much hacked together.
